@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	proxyplease "github.com/aus/proxyplease"
+	proxyplease "github.com/bdwyertech/proxyplease"
 	"github.com/gorilla/websocket"
 )
 
